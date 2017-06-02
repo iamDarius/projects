@@ -1,3 +1,5 @@
+![Image of Man Sleeping](http://www.maamedicare.com/img/Uploads/1474360458400.jpg)
+
 # Sleep Calculator 
 
 ### Objective: 
